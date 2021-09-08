@@ -14,11 +14,11 @@ public class Ball {
         this.radius = 0;
     }
     public Ball(float r){
-        this.color = "Unknown";
+        this.color = "";
         this.radius = r;
     }
     public Ball(){
-        this.color = "Unknown";
+        this.color = "";
         this.radius = 0;
     }
 
